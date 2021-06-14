@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-[Alisha Varma](www.linkedin.com/in/alisha-varma/) graduated this past May from the University of Maryland, College Park with a Bachelors of Science in Computer Science. During her time in undergrad, she worked as a Research Assistant in the Department of Computer Science at the University of Maryland, College Park and was involved in several other organizations like Technica, Hack4Impact, GirlsWhoCode, and Bitcamp.
+[Alisha Varma](https://www.linkedin.com/in/alisha-varma/) graduated this past May from the University of Maryland, College Park with a Bachelors of Science in Computer Science. During her time in undergrad, she worked as a Research Assistant in the Department of Computer Science at the University of Maryland, College Park and was involved in several other organizations like Technica, Hack4Impact, GirlsWhoCode, and Bitcamp.
 
 ## About My Mentor
 
