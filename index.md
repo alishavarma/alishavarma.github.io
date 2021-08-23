@@ -12,7 +12,7 @@ title: Summer 2021 DREU Project Site
 
 ## About My Mentor
 
-[Dr. Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) is an Associate Professor in the Department of Computer Science at the University of Washington, Seattle (previously at University of Maryland, College Park). She runs [Battle Data Lab](https://battle-data-lab.cs.umd.edu) at the University of Maryland. Her research areas include visualization, HCI, big data analytics, and database systems
+[Dr. Leilani Battle](https://homes.cs.washington.edu/~leibatt/bio.html) is an Associate Professor in the Department of Computer Science at the University of Washington, Seattle (previously at University of Maryland, College Park). She runs [Battle Data Lab](https://battle-data-lab.cs.umd.edu) at the University of Maryland. Her research areas include visualization, HCI, big data analytics, and database systems
 
 ## About My Project
 
